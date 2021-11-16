@@ -1,0 +1,50 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:/LOBOGUARA/Protheus/Protheus/bin/Smartclient/smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "U_OlaMundo",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_VARIAVEL",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_estrutura",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_DoCase",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_FORNEXT",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_WHILEDO",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_for",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_WHILEDO2",
+			"description": "<nil>"
+		}
+	],
+	"lastProgramExecuted": "U_WHILEDO2"
+}
