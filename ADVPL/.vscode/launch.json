@@ -49,7 +49,15 @@
 		{
 			"label": "U_AVETOR",
 			"description": "<nil>"
+		},
+		{
+			"label": "U_AVETOR2",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_ARVETOR",
+			"description": "<nil>"
 		}
 	],
-	"lastProgramExecuted": "U_AVETOR"
+	"lastProgramExecuted": "U_ARVETOR"
 }
