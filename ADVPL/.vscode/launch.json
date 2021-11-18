@@ -57,7 +57,11 @@
 		{
 			"label": "U_ARVETOR",
 			"description": "<nil>"
+		},
+		{
+			"label": "U_BLOCO",
+			"description": "<nil>"
 		}
 	],
-	"lastProgramExecuted": "U_ARVETOR"
+	"lastProgramExecuted": "U_BLOCO"
 }

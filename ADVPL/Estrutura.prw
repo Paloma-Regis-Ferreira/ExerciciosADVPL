@@ -20,7 +20,7 @@ user Function ESTRUTURA()
     If(nNum1 = nNum2)
         MsgInfo("A variavel nNum1 é igual a nNum2")
     
-    ElseIf (nNum1 > nNum2)
+    ElseIf (nNum1 > nNum2) 
         MsgAlert("A variavel nNum1 é maior que a nNum2")
     
     ElseIf (nNUm1 != nNum2)
